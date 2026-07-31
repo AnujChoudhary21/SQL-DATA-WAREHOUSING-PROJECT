@@ -135,9 +135,9 @@ I'm excited to learn, grow, and contribute to impactful projects while collabora
 
 - 💼 LinkedIn: www.linkedin.com/in/anuj-choudhary-552117321
 - 📧 Email: anujchoudhary883@gmail.com
-- 🐙 GitHub: 
+- 🐙 GitHub: https://github.com/AnujChoudhary21
 
 
-⭐ *Thanks for visiting my profile! Feel free to connect, collaborate, or reach out for exciting opportunities
+⭐ Thanks for visiting my profile! Feel free to connect, collaborate, or reach out for exciting opportunities
 
 
