@@ -100,6 +100,7 @@ I am passionate about **Data Analytics, Business Intelligence, and Data-Driven D
 
 **Analytics & Visualization**
 - Power BI
+- Advanced Excel
 - Data Cleaning
 - Data Analysis
 - Dashboard Development
